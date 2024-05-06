@@ -1,0 +1,38 @@
+_repo: Historical-record-of-the-Eighty-seventh-Regiment-or-the-Royal-Irish-Fusiliers-b-Containing-an__73415
+_version: 0.0.1
+alternative_title: Historical record of the 87th Foot
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
+description: ''
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73415'
+language: en
+pgterms:marc904: https://archive.org/details/recordofeightyse00canniala
+pgterms:marc905: 20181215002000cannon
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bParker, Furnivall & Parker, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historical records of the British Army
+subjects:
+- !lcsh 'Great Britain. Army -- History'
+- !lcsh 'Great Britain. Army. Princess Victoria''s Royal Irish Fusiliers'
+- !lcc 'UA'
+- GITenberg
+title: 'Historical record of the Eighty-seventh Regiment, or the Royal Irish Fusiliers
+  : $b Containing an account of the formation of the regiment in 1793, and of its
+  subsequent services to 1853'
+url: http://www.gutenberg.org/ebooks/73415
